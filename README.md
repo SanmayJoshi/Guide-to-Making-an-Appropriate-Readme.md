@@ -8,7 +8,7 @@
 /## - sub header
 /### - sub sub header
 /> - highlights the text written 
-   eg '/> Hey there!' would look like
-   > Hey there!
+eg '/> Hey there!' would look like
+> Hey there!
 /'...' to write code
-/
+''' code I guess '''
